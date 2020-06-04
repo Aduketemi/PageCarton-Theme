@@ -1,0 +1,362 @@
+<?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /layout/pc_layout_timeless/template
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: template.php	Thursday 4th of June 2020 12:46:15 PM	adeoyemarytope@gmail.com $ 
+*/
+//	Page Include Content
+
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_pc_body_1 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'pc_body_1' );
+                }
+                else
+                {
+                    $_sitePageWidget_pc_body_1 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_oneness = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'oneness' );
+                }
+                else
+                {
+                    $_sitePageWidget_oneness = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_middlebar = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'middlebar' );
+                }
+                else
+                {
+                    $_sitePageWidget_middlebar = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_twosome1 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'twosome1' );
+                }
+                else
+                {
+                    $_sitePageWidget_twosome1 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_twosome2 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'twosome2' );
+                }
+                else
+                {
+                    $_sitePageWidget_twosome2 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_threesome1 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'threesome1' );
+                }
+                else
+                {
+                    $_sitePageWidget_threesome1 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_threesome2 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'threesome2' );
+                }
+                else
+                {
+                    $_sitePageWidget_threesome2 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_threesome3 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'threesome3' );
+                }
+                else
+                {
+                    $_sitePageWidget_threesome3 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_foursome1 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'foursome1' );
+                }
+                else
+                {
+                    $_sitePageWidget_foursome1 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_foursome2 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'foursome2' );
+                }
+                else
+                {
+                    $_sitePageWidget_foursome2 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_foursome3 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'foursome3' );
+                }
+                else
+                {
+                    $_sitePageWidget_foursome3 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_foursome4 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'foursome4' );
+                }
+                else
+                {
+                    $_sitePageWidget_foursome4 = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_leftbar = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'leftbar' );
+                }
+                else
+                {
+                    $_sitePageWidget_leftbar = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_leftbarright = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'leftbarright' );
+                }
+                else
+                {
+                    $_sitePageWidget_leftbarright = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_rightbarleft = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'rightbarleft' );
+                }
+                else
+                {
+                    $_sitePageWidget_rightbarleft = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_rightbar = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'rightbar' );
+                }
+                else
+                {
+                    $_sitePageWidget_rightbar = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_lastoneness = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'lastoneness' );
+                }
+                else
+                {
+                    $_sitePageWidget_lastoneness = array();
+                }
+                
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_pc_body_2 = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'pc_body_2' );
+                }
+                else
+                {
+                    $_sitePageWidget_pc_body_2 = array();
+                }
+                
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_d56f1aee50e1be84240eb7fcbc68669e = new Ayoola_Page_Editor_Text( array (
+  'codes' => '<div class="container tm-container-2">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="tm-welcome-text">Organization Name</h2>
+                </div>
+            </div>
+            <div class="row tm-section-mb">
+                <div class="col-lg-12">
+                    <div class=" tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+<!-- How to embed Application_Article_ShowAll -->
+<!--{{{@0(Application_Article_ShowAll)-->
+<!--{{{0}}}
+                            <img src={{{document_url_uri}}}{{{0}}}?crop_to_fit_url="/layout/pc_layout_timeless/img/img-01.jpg" alt="Image" class="rounded-circle tm-img-timeline"><div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark tm-timeline-description">
+                                    <h3 class="tm-text-green tm-font-400">{{{article_title}}}{{{0}}}</h3>
+                                    <p>{{{article_description}}}{{{0}}}</p>
+                                    <p class="tm-text-green float-right mb-0">{{{article_type}}}{{{0}}}. {{{article_date_d}}}{{{0}}} {{{article_date_m}}}{{{0}}} {{{article_date_Y}}}{{{0}}}</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tm-timeline-connector-vertical"></div>
+                    </div>
+{{{0}}}-->
+<!--{{{1}}}
+                    <div class="tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src={{{document_url_uri}}}{{{1}}}?crop_to_fit_url="/layout/pc_layout_timeless/img/img-02.jpg" alt="Image" class="rounded-circle tm-img-timeline"><div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark-light tm-timeline-description">
+                                    <h3 class="tm-text-cyan tm-font-400">{{{article_title}}}{{{1}}}</h3>
+                                    <p>{{{article_description}}}{{{1}}}</p>
+                                    <p class="tm-text-cyan float-right mb-0">{{{article_type}}}{{{1}}}. {{{article_date_d}}}{{{1}}} {{{article_date_m}}}{{{1}}} {{{article_date_Y}}}{{{1}}}</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tm-timeline-connector-vertical"></div>
+                    </div>
+{{{1}}}-->
+<!--{{{2}}}
+                    <div class="tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src={{{document_url_uri}}}{{{2}}}?crop_to_fit_url="/layout/pc_layout_timeless/img/img-03.jpg" alt="Image" class="rounded-circle tm-img-timeline"><div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark tm-timeline-description">
+                                    <h3 class="tm-text-yellow tm-font-400">{{{article_title}}}{{{2}}}</h3>
+                                    <p>{{{article_description}}}{{{2}}}</p>
+                                    <p class="tm-text-yellow float-right mb-0">{{{article_type}}}{{{2}}}. {{{article_date_d}}}{{{2}}} {{{article_date_m}}}{{{2}}} {{{article_date_Y}}}{{{2}}}</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tm-timeline-connector-vertical"></div>
+                    </div>
+{{{2}}}-->
+<!--{{{3}}}
+                    <div class="tm-timeline-item">
+                        <div class="tm-timeline-item-inner">
+                            <img src={{{document_url_uri}}}{{{3}}}?crop_to_fit_url="/layout/pc_layout_timeless/img/img-04.jpg" alt="Image" class="rounded-circle tm-img-timeline"><div class="tm-timeline-connector">
+                                <p class="mb-0">&nbsp;</p>
+                            </div>
+                            <div class="tm-timeline-description-wrap">
+                                <div class="tm-bg-dark-light tm-timeline-description">
+                                    <h3 class="tm-text-orange tm-font-400">{{{article_title}}}{{{3}}}</h3>
+                                    <p>{{{article_description}}}{{{3}}}</p>
+                                    <p class="tm-text-orange float-right mb-0">{{{article_type}}}{{{3}}}. {{{article_date_d}}}{{{3}}} {{{article_date_m}}}{{{3}}} {{{article_date_Y}}}{{{3}}}</p>
+{{{3}}}-->
+<!--(Application_Article_ShowAll)@0}}}-->
+<!-- Place this code in code view -->
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+            <!--  row -->
+            <hr>
+<div class="row tm-section-mb tm-section-mt">
+                <div class="col-lg-4 col-md-4 col-sm-12 pr-lg-5 mb-md-0 mb-4">
+                    <h3 class="mt-2 mb-3 tm-text-gray">Short Description About Organization</h3>
+                    <p>{Short About Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius repellat, dicta at laboriosam, nemo exercitationem itaque eveniet architecto cumque, deleniti commodi molestias repellendus quos sequi hic fugiat asperiores illum. Atque, in, fuga excepturi corrupti error corporis aliquam unde nostrum quas.}</p>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 pr-lg-5 mb-md-0 mb-4">
+                    <h3 class="mt-2 mb-3 tm-text-gray">More About Organization</h3>
+                    <p>{More About Accusantium dolor ratione maiores est deleniti nihil? Dignissimos est, sunt nulla illum autem in, quibusdam cumque recusandae, laudantium minima repellendus.}</p>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <h3 class="mt-2 mb-3 tm-text-gray">Background History of Organization</h3>
+                    <p>{Background History Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi aliquip ex ea consequat.}</p>
+                </div>
+            </div>
+            <hr>
+<div class="row tm-section-mt">
+                <div class="col-lg-6">
+                    <h3 class="mb-4 tm-text-gray">Our Location</h3>
+                    <!-- GOOGLE MAP -->
+                    <div id="google-map" class="text-center mb-5">
+                    <!-- How to change your own map point
+                           1. Go to Google Maps
+                           2. Click on your location point
+                           3. Click "Share" and choose "Embed map" tab
+                           4. Copy only URL and paste it within the src="/layout/pc_layout_timeless/" field below
+                       -->
+                       <iframe src="{https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3956.7573964262942!2d3.862950314775586!3d7.381062994674082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10398d11e9ff4445%3A0x27cd60c4ec4cbd97!2sNustreams+Conference+%26+Culture+Centre!5e0!3m2!1sen!2sng!4v1550769560125}" class="google-map-iframe" width="500" height="300" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+                   </div>
+               </div>
+               <div class="col-lg-6 mb-5">
+                <h3 class="mb-4 tm-text-gray">Contact Us</h3>
+                <form action="/widgets/PageCarton_Contact_Form" method="POST" class="tm-contact-form">
+                    <div class="row">
+                        <div class="form-group col-xl-6">
+                            <input type="text" id="contact_name" name="contactus_firstname" class="form-control" placeholder="Name..." required="">
+</div>
+                        <div class="form-group col-xl-6">
+                            <input type="email" id="contact_email" name="contactus_email" class="form-control" placeholder="Email..." required="">
+</div>
+                    </div>
+                    <div class="form-group">
+                        <textarea id="contact_message" name="contactus_message" class="form-control" rows="6" placeholder="Your Message..." required=""></textarea>
+</div>
+                    <button type="submit" class="btn  tm-btn-send">Send It</button>
+                </form>
+            </div>
+        </div>
+        <hr>
+<!-- Footer --><footer class="row mt-5 mb-5" data-pc-section-skip="1"><div class="col-lg-12">
+                <p class="text-center tm-text-gray tm-copyright-text mb-0">Copyright ©
+                    <span class="tm-current-year">2018</span> {Organization Name} 
+                    
+                    | Design: <a href="http://templatemo.com/tm-517-timeless" class="tm-text-white">Timeless</a>
+                </p>
+            </div>
+        </footer>
+</div>
+
+',
+  'preserved_content' => '',
+  'url_prefix' => '',
+  'widget_options' => 
+  array (
+    0 => 'embed_widgets',
+    1 => 'parameters',
+  ),
+  'pagewidget_id' => '1591265861-0-4',
+  'markup_template_object_name' => 
+  array (
+    0 => 'Application_Article_ShowAll',
+  ),
+  'advanced_parameter_value' => 
+  array (
+    0 => '4',
+  ),
+  'add_a_new_post[0]' => '4',
+) );
+
+							}
+							else
+							{
+								
+$_d56f1aee50e1be84240eb7fcbc68669e = null;
+
+							}
+							
+                if( method_exists( 'Ayoola_Page_Editor_Layout', 'getSiteWideWidgets' ) )
+                {
+                    $_sitePageWidget_pc_section_after_js = Ayoola_Page_Editor_Layout::getSiteWideWidgets( 'pc_section_after_js' );
+                }
+                else
+                {
+                    $_sitePageWidget_pc_section_after_js = array();
+                }
+                

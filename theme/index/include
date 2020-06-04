@@ -1,0 +1,67 @@
+<?php
+/**
+* PageCarton Page Generator
+*
+* LICENSE
+*
+* @category PageCarton
+* @package /
+* @generated Ayoola_Page_Editor_Layout
+* @copyright  Copyright (c) PageCarton. (http://www.PageCarton.com)
+* @license    http://www.PageCarton.com/license.txt
+* @version $Id: includes.php	Thursday 4th of June 2020 12:46:15 PM	adeoyemarytope@gmail.com $ 
+*/
+//	Page Include Content
+
+							if( Ayoola_Loader::loadClass( 'Ayoola_Page_Editor_Text' ) )
+							{
+								
+$_14193426081e15d67f576f47f0701cac = new Ayoola_Page_Editor_Text( array (
+  'codes' => '<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <header class="text-center tm-site-header" data-pc-section-skip="1"><div class=></div>
+                    <h1 class="pl-4 tm-site-title"><img style="max-height:100px;" src="/img/logo.png" alt="{Organization Name}"></h1>
+                </header>
+</div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="tm-video-container">
+                    <video id="tm-welcome-video" class="tm-welcome-video" autoplay="" loop="" muted=""><source src={https://vimeo.com/channels/staffpicks/93951774} type="video/mp4"> Your browser does not support the video tag.
+                        </video><div id="tm-video-loader" class="d-none"></div>
+                        <div id="tm-video-text-overlay" class="tm-video-text-overlay">
+                            <h1>
+                                <div id="rotate" class="tm-video-text">
+                                    <div style="display: none;">Organization Name</div>
+                                    <div style="display: block; opacity: 0.187379;">Short Description About Organization</div>
+                                    <div style="display: none;">More About Organization</div>
+                                    <div style="display: none;">Background History of Organization</div>
+                                </div>
+                            </h1>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+',
+  'preserved_content' => '',
+  'url_prefix' => '',
+  'widget_options' => 
+  array (
+    0 => 'embed_widgets',
+    1 => 'parameters',
+  ),
+  'pagewidget_id' => '1591264663-0-2',
+) );
+
+							}
+							else
+							{
+								
+$_14193426081e15d67f576f47f0701cac = null;
+
+							}
+							
